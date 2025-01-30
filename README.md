@@ -1,12 +1,14 @@
 # 프로젝트 개요
 리액트 프로젝트 영화웹으로 인프런 강의을 보며 만들었습니다. 
 
+
+![image](https://github.com/user-attachments/assets/963a62df-24ea-40e5-be9e-800348d4e07f)
+
 그 외 영화검색기능 추가
 
 # 기술 스택
  ### Backend (서버)
 
- 
 Node.js: JavaScript 런타임 환경
 
 
